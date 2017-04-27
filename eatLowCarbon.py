@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import mechanize
 import cookielib
 from BeautifulSoup import BeautifulSoup
